@@ -1,0 +1,5 @@
+# peppypedia 
+
+___________________________________________________________________________________________________________________________________________________________
+
+peppypedia is an _osu!_ _encyclopedia _that aims to give knowledge about _players, beatmaps, etc. _
