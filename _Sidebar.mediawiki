@@ -1,2 +1,2 @@
 <h3>Users</h3>
-*[[peppy]]
+*[[users:peppy]]
