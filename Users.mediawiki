@@ -1,2 +1,0 @@
-This is about users.
-<h2>Users:peppy</h2>
